@@ -1,0 +1,54 @@
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\bin\Debug\net6.0\Lab 3D.exe
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\bin\Debug\net6.0\Lab 3D.deps.json
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\bin\Debug\net6.0\Lab 3D.runtimeconfig.json
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\bin\Debug\net6.0\Lab 3D.dll
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\bin\Debug\net6.0\Lab 3D.pdb
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\bin\Debug\net6.0\LabUI.dll
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\bin\Debug\net6.0\Test3Utils.dll
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.AssemblyReference.cache
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.AssemblyInfoInputs.cache
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.AssemblyInfo.cs
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.CoreCompileInputs.cache
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.CopyComplete
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.dll
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\refint\Lab 3D.dll
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.pdb
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\Lab 3D.genruntimeconfig.cache
+C:\Users\sgtra\source\repos\Lab 3D\Lab 3D\obj\Debug\net6.0\ref\Lab 3D.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.deps.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.runtimeconfig.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\LabUI.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Test3Utils.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.AssemblyInfoInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.AssemblyInfo.cs
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.CoreCompileInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.CopyComplete
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\refint\Lab 3D.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.genruntimeconfig.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\ref\Lab 3D.dll
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.exe
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.deps.json
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.runtimeconfig.json
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.dll
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Lab 3D.pdb
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\LabUI.dll
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\bin\Debug\net6.0\Test3Utils.dll
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.AssemblyReference.cache
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.AssemblyInfoInputs.cache
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.AssemblyInfo.cs
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.CoreCompileInputs.cache
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.csproj.CopyComplete
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.dll
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\refint\Lab 3D.dll
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.pdb
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\Lab 3D.genruntimeconfig.cache
+C:\College\Full Sail\PG1\Working\Lab 3\Lab 3D\obj\Debug\net6.0\ref\Lab 3D.dll
