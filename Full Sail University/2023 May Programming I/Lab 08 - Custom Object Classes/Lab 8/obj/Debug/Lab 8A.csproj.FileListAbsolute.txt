@@ -1,0 +1,21 @@
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 9\bin\Debug\Lab 8.exe.config
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 9\bin\Debug\Lab 8.exe
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 9\bin\Debug\Lab 8.pdb
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 9\obj\Debug\Lab 8A.csproj.CoreCompileInputs.cache
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 9\obj\Debug\Lab 8.exe
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 9\obj\Debug\Lab 8.pdb
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 8\bin\Debug\Lab 8.exe.config
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 8\bin\Debug\Lab 8.exe
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 8\bin\Debug\Lab 8.pdb
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 8\obj\Debug\Lab 8A.csproj.CoreCompileInputs.cache
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 8\obj\Debug\Lab 8.exe
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 8\obj\Debug\Lab 8.pdb
+E:\PG1\Working\FSO Version\Labs\Lab 8A\Lab 8\obj\Debug\Lab 8A.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\obj\Debug\Lab 8A.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\obj\Debug\Lab 8A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\obj\Debug\Lab 8A.csproj.CoreCompileInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\obj\Debug\Lab 8.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\obj\Debug\Lab 8.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\bin\Debug\Lab 8.exe.config
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\bin\Debug\Lab 8.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 8A\Lab 8\bin\Debug\Lab 8.pdb
