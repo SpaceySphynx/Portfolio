@@ -1,0 +1,64 @@
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.exe
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll.config
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.deps.json
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.runtimeconfig.json
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.pdb
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\bin\Debug\net7.0\LabUI.dll
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.AssemblyReference.cache
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CoreCompileInputs.cache
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CopyComplete
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.dll
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\refint\FSPG1.dll
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.pdb
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.genruntimeconfig.cache
+C:\Users\sgtra\Desktop\Lab 4A\FSPG1\obj\Debug\net7.0\ref\FSPG1.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.AssemblyReference.cache
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CoreCompileInputs.cache
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\refint\FSPG1.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.pdb
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.exe
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll.config
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.deps.json
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.runtimeconfig.json
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.pdb
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\bin\Debug\net7.0\LabUI.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CopyComplete
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.genruntimeconfig.cache
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 4A\FSPG1\obj\Debug\net7.0\ref\FSPG1.dll
+C:\FS\PG1\Labs\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.exe
+C:\FS\PG1\Labs\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll.config
+C:\FS\PG1\Labs\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.deps.json
+C:\FS\PG1\Labs\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.runtimeconfig.json
+C:\FS\PG1\Labs\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll
+C:\FS\PG1\Labs\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.pdb
+C:\FS\PG1\Labs\Lab 4A\FSPG1\bin\Debug\net7.0\LabUI.dll
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.AssemblyReference.cache
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CoreCompileInputs.cache
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CopyComplete
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.dll
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\refint\FSPG1.dll
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.pdb
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.genruntimeconfig.cache
+C:\FS\PG1\Labs\Lab 4A\FSPG1\obj\Debug\net7.0\ref\FSPG1.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CoreCompileInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\refint\FSPG1.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll.config
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.deps.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.runtimeconfig.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\bin\Debug\net7.0\FSPG1.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\bin\Debug\net7.0\LabUI.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.csproj.CopyComplete
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\FSPG1.genruntimeconfig.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 4A\FSPG1\obj\Debug\net7.0\ref\FSPG1.dll
