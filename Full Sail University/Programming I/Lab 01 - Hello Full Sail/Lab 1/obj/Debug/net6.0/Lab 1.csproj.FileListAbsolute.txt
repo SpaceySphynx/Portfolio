@@ -1,0 +1,30 @@
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.deps.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.runtimeconfig.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfoInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfo.cs
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\refint\Lab 1.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.genruntimeconfig.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\ref\Lab 1.dll
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.exe
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.deps.json
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.runtimeconfig.json
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.dll
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.pdb
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.AssemblyReference.cache
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfoInputs.cache
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfo.cs
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.CoreCompileInputs.cache
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.dll
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\refint\Lab 1.dll
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.pdb
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.genruntimeconfig.cache
+C:\College\Full Sail\PG1\Working\Lab 1\Lab 1\obj\Debug\net6.0\ref\Lab 1.dll
