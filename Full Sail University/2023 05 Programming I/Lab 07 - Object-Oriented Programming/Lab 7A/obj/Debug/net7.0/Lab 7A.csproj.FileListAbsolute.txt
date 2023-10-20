@@ -1,0 +1,32 @@
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.exe
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.dll.config
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.deps.json
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.runtimeconfig.json
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.pdb
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\bin\Debug\net7.0\LabUI.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.csproj.AssemblyReference.cache
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.csproj.CopyComplete
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\refint\Lab 7A.dll
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.pdb
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.genruntimeconfig.cache
+C:\Users\sgtra\Desktop\PG1 Presentation\Labs\_Phase 2\Lab 7A\Lab 7A\obj\Debug\net7.0\ref\Lab 7A.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.csproj.CoreCompileInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\refint\Lab 7A.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.dll.config
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.deps.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.runtimeconfig.json
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\bin\Debug\net7.0\Lab 7A.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\bin\Debug\net7.0\LabUI.dll
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.csproj.CopyComplete
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\Lab 7A.genruntimeconfig.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\Lab 7A\Lab 7A\obj\Debug\net7.0\ref\Lab 7A.dll

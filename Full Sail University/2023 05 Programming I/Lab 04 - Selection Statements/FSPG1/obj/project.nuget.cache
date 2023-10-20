@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqol34dsFF6V6mP99uY2wEgLr7aylVGUydMrIl3qLuiboPbngOMBC4+tu2PwrUKXivyfkEm8NA8iAVEi/3N5Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johna\\OneDrive\\Desktop\\PG1\\Working\\Lab 4A\\FSPG1\\FSPG1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Johna\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.4.410601\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.4.410601.nupkg.sha512",
+    "C:\\Users\\Johna\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

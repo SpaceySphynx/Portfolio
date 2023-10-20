@@ -1,0 +1,48 @@
+C:\PG1\Labs\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.exe
+C:\PG1\Labs\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.dll.config
+C:\PG1\Labs\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.deps.json
+C:\PG1\Labs\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.runtimeconfig.json
+C:\PG1\Labs\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.dll
+C:\PG1\Labs\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.pdb
+C:\PG1\Labs\Lab 2\Lab 2\bin\Debug\net7.0\LabUI.dll
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.AssemblyReference.cache
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.CoreCompileInputs.cache
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.CopyComplete
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.dll
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\refint\Lab 2.dll
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.pdb
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.genruntimeconfig.cache
+C:\PG1\Labs\Lab 2\Lab 2\obj\Debug\net7.0\ref\Lab 2.dll
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.exe
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.dll.config
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.deps.json
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.runtimeconfig.json
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.dll
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.pdb
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\bin\Debug\net7.0\LabUI.dll
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.CopyComplete
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.dll
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\refint\Lab 2.dll
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.pdb
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.genruntimeconfig.cache
+C:\Users\Johna\OneDrive\Desktop\Lab_2\Lab 2\Lab 2\obj\Debug\net7.0\ref\Lab 2.dll
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.exe
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.dll.config
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.deps.json
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.runtimeconfig.json
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.dll
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\bin\Debug\net7.0\Lab 2.pdb
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\bin\Debug\net7.0\LabUI.dll
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.AssemblyReference.cache
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.CoreCompileInputs.cache
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.csproj.CopyComplete
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.dll
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\refint\Lab 2.dll
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.pdb
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\Lab 2.genruntimeconfig.cache
+C:\College\Full Sail\PG1\Working\Lab 2\Lab 2\Lab 2\obj\Debug\net7.0\ref\Lab 2.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ej1KPeexsx4MFAxva0JX7j2sP8Zx9NWSugAY8JOuQU28JMNSwTJCUPGsTaoHSE6MF71cIgPbkWIrt9COx9esyw==",
+  "success": true,
+  "projectFilePath": "C:\\College\\Full Sail\\PG2\\pg2-2306-thecharmingbard\\Week1\\Lab1\\HeroesV1\\HeroesV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johna\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

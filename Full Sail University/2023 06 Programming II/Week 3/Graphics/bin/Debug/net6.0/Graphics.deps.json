@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Graphics/1.0.0": {
+        "dependencies": {
+          "GraphicsLibrary": "1.0.0",
+          "PG2Input": "1.0.0"
+        },
+        "runtime": {
+          "Graphics.dll": {}
+        }
+      },
+      "GraphicsLibrary/1.0.0": {
+        "runtime": {
+          "GraphicsLibrary.dll": {}
+        }
+      },
+      "PG2Input/1.0.0": {
+        "runtime": {
+          "PG2Input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Graphics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphicsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PG2Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

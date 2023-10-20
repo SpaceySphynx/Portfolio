@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab 2/1.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": "0.4.421302",
+          "System.Data.DataSetExtensions": "4.5.0",
+          "LabUI": "1.0.0.0"
+        },
+        "runtime": {
+          "Lab 2.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.4.421302": {},
+      "System.Data.DataSetExtensions/4.5.0": {},
+      "LabUI/1.0.0.0": {
+        "runtime": {
+          "LabUI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.4.421302": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yZinZEQ/0ciwMB5zOlUF56UeDDJRp2lc/AFJFptLHOxkY+sxa68ictkbcinWn8lvs7oePJhLJBic7mdBGiQksA==",
+      "path": "microsoft.dotnet.upgradeassistant.extensions.default.analyzers/0.4.421302",
+      "hashPath": "microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.4.421302.nupkg.sha512"
+    },
+    "System.Data.DataSetExtensions/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-221clPs1445HkTBZPL+K9sDBdJRB8UN8rgjO3ztB0CQ26z//fmJXtlsr6whGatscsKGBrhJl5bwJuKSA8mwFOw==",
+      "path": "system.data.datasetextensions/4.5.0",
+      "hashPath": "system.data.datasetextensions.4.5.0.nupkg.sha512"
+    },
+    "LabUI/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
