@@ -1,0 +1,3 @@
+Checking account balance: $1000
+Savings account balance: $2000
+Credit account balance: $10000
