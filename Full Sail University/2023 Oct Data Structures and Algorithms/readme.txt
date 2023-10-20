@@ -1,0 +1,1 @@
+This is a C++-based class on templating reusable code sections that use type so data types don't matter as much. Also learned recursion, node-based lists, trees, and such.
