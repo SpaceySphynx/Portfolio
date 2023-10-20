@@ -1,0 +1,23 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.AssemblyReference.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\Johna\OneDrive\Desktop\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.AssemblyReference.cache
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.SuggestedBindingRedirects.cache
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\College\Full Sail\PG1\Working\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
