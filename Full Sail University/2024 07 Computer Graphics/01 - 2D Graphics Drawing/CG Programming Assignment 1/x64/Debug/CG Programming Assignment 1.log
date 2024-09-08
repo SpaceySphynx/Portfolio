@@ -1,6 +1,2 @@
-﻿  Helper.cpp
-  Main.cpp
-C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\01 - 2D Graphics Drawing\CG Programming Assignment 1\Main.cpp(48,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-  Generating Code...
-  LINK : C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\01 - 2D Graphics Drawing\x64\Debug\CG Programming Assignment 1.exe not found or not built by the last incremental link; performing full link
+﻿  LINK : C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\01 - 2D Graphics Drawing\x64\Debug\CG Programming Assignment 1.exe not found or not built by the last incremental link; performing full link
   CG Programming Assignment 1.vcxproj -> C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\01 - 2D Graphics Drawing\x64\Debug\CG Programming Assignment 1.exe

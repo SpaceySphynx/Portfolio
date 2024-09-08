@@ -192,7 +192,4 @@ void Helper::FireAnimator(const unsigned int* src, unsigned int srcWidth, unsign
 
     // Blit the current frame to the destination.
     Helper::Blit(src, srcWidth, srcHeight, frameRect, dst, dstWidth, dstHeight, dstX, dstY);
-
-    // Move to the next frame and cycle back after the total frames are reached.
-    currentFrame = (currentFrame + 1) % totalFrames;
 }
