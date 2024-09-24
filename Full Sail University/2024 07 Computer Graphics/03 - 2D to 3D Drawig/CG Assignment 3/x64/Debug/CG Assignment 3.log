@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\Defines.h(108,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(242,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(242,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(243,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(243,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(276,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(276,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(277,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(277,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(278,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\MyMath.h(278,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\RasterFunction.h(48,30): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\RasterFunction.h(78,30): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\Main.cpp(52,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RasterSurface.cpp
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\RasterSurface.cpp(110,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\CG Assignment 3\RasterSurface.cpp(110,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  XTime.cpp
+  Generating Code...
+  CG Assignment 3.vcxproj -> C:\Users\Johna\OneDrive\Documents\GitHub\Portfolio\Full Sail University\2024 07 Computer Graphics\03 - 2D to 3D Drawig\x64\Debug\CG Assignment 3.exe
